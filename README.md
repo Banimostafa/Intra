@@ -20,6 +20,7 @@ Features:
 4. Click the green "play" triangle button.
 
 دی‌ان‌اس‌های پیشنهادی برای ایرانسل
+
 https://ipv4-zepto-mci-1.edge.nextdns.io/dns-query
 
 https://dns.controld.com/
@@ -42,6 +43,7 @@ https://xmission-slc-1.edge.nextdns.io/dns-query
 
 
 دی‌ان‌اس‌های پیشنهادی برای همراه اول و مخابرات
+
 https://xtom-osa-1.edge.nextdns.io/
 
 https://dns.aa.net.uk/dns-query
@@ -64,6 +66,7 @@ https://dns.melalandia.tk/dns-query
 
 
 دی‌ان‌اس‌های پیشنهادی برای رایتل
+
 https://dns.quad9.net/dns-query
 
 https://ipv4-zepto-mci-1.edge.nextdns.io/dns-query
